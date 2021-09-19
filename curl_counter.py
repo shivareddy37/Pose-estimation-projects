@@ -1,8 +1,8 @@
 '''
-This a simple program which counts the number of Biceps Curl we did 
-using a Tensorflow MoveNet-lightning network
+This a simple program which counts the number of Biceps Curl done 
+using a Tensorflow MoveNet-lightning network.
 '''
-from os import name
+
 import tensorflow as tf
 import numpy as np
 import cv2
